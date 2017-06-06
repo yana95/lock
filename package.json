@@ -1,0 +1,12 @@
+{
+  "name": "protractor-lock",
+  "version": "0.0.1",
+ "main": "index.js",
+  "dependencies": {
+    "q": "1.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yana95/lock.git"
+  }
+}
